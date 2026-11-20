@@ -27,7 +27,7 @@ An end-to-end Machine Learning and Natural Language Processing project designed 
 ## 1. Project Overview & Deliverables
 
 - **Course Project**: Project 5 — Spam / Phishing Email Detection with Transformers
-- **Team**: Team 24 (2 students)
+- **Team**: Team 5 (2 students)
 - **GitHub Repository**: [https://github.com/nhatthanh123456/Spam-Phishing-Email-Detection-with-Transformers](https://github.com/nhatthanh123456/Spam-Phishing-Email-Detection-with-Transformers)
 - **Submission Artifacts**:
   1. Complete Source Code ZIP archive (`Spam-Phishing-Email-Detection-with-Transformers_source_code.zip`).
